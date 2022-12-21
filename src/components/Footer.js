@@ -10,7 +10,7 @@ const Footer = (props) => {
         </div>
       </div>
 
-      <div className="flex items-center justify-center bg-gray-800 pb-2 pt-6 text-gray-500 text-1xl font-semibold ">
+      <div className="flex items-center justify-center pb-2 pt-6 text-gray-500 text-1xl font-semibold ">
         Made by Anthony Truong
         <a
           href="https://github.com/anthonytruongg/"
